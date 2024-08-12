@@ -25,7 +25,7 @@ void solve()
 
         else
         {
-            cout << n-2 << endl;
+            cout << -2+(n-2) << endl;
         }
     }
     else
