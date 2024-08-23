@@ -1,5 +1,4 @@
-
-        for(int i = 0; i<n; i++)
-        {
-            cout << v[i] << " ";
-        }
+ for(int i = 0; i<V.size(); i++)
+    {
+        cout << V[i].first << " " << V[i].second << "\n";
+    }
